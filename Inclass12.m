@@ -1,4 +1,10 @@
 %Inclass 12. 
+%GB comments
+1) 100
+2) 100
+3) 100
+4) 100
+Overall 100
 
 % Continue with the set of images you used for inclass 11, the same time 
 % point (t = 30)
